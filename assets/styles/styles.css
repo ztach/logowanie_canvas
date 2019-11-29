@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 16px;
+  color: #333333;
+}
+
+header {
+  height: 100vh;
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#e3eeff), color-stop(99%, #f3e7e9), to(#f3e7e9));
+  background-image: linear-gradient(to top, #e3eeff 0%, #f3e7e9 99%, #f3e7e9 100%);
+}
+/*# sourceMappingURL=styles.css.map */
